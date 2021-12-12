@@ -3,4 +3,4 @@
 - 👨🏻‍💻 working on [django-api-wrapper](https://github.com/its-development/django-api-wrapper)
 - 🌱 learning Angular
 - 👯 I’m looking to collaborate on python projects
-- 💻 MacOS / CentOS
+- 💻 MacOS / Rocky Linux
