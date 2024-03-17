@@ -12,8 +12,8 @@ I'm a highly focused and security-minded software developer currently working on
 
 - 🔐 **Security Minded**: I put a strong emphasis on secure coding practices.
 - 👨🏻‍💻 **Current Project**: Working on `django-api-wrapper`.
-- 🌱 **Always Learning**: Currently exploring Swift and React Native.
-- 💪 **Skilled In**: Python, Angular, TSQL, .NET Core, C, C++, C#, C Objective.
+- 🌱 **Always Learning**: Currently exploring LLM's and event driven architectures.
+- 💪 **Skilled In**: Django, FastAPI, Langchain & RAG
 - 👯 **Collaboration**: Open to collaborate on Python projects.
 - 💻 **Environment**: MacOS and Rocky Linux.
 
