@@ -101,7 +101,6 @@ pip install git+https://github.com/zeeb-cloud/zeebpy.git
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=mzeeb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzeeb&layout=compact&theme=tokyonight&hide_border=true" alt="top languages"/>
 
 <img src="https://streak-stats.demolab.com?user=mzeeb&theme=tokyonight&hide_border=true" alt="streak"/>
 
