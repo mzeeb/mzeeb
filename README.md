@@ -1,106 +1,127 @@
 <div align="center">
 
-# Hi, I'm Marc 👋🏻
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,14,18,20,24&text=Marc%20Zeeb&fontSize=64&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Security-minded%20developer%20%E2%80%A2%20Python%20enthusiast&descSize=20&descAlignY=58" alt="header" width="100%"/>
 
-### Security-minded software developer · Python enthusiast · Lifelong learner
+<a href="https://github.com/zeeb-cloud/zeebpy">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Building+async+APIs+with+zeebpy+%E2%9A%A1;Writing+secure%2C+clean+Python+%F0%9F%90%8D;Exploring+LLMs%2C+RAG+%26+event-driven+design+%F0%9F%A7%A0;Open+for+collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
+</a>
 
-[![Website](https://img.shields.io/badge/Website-marc.zeeb.cloud-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://marc.zeeb.cloud)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marc%20Zeeb-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-robin-zeeb/)
-![Profile views](https://komarev.com/ghpvc/?username=mzeeb&style=for-the-badge&color=blueviolet)
+<br/>
+
+[![Website](https://img.shields.io/badge/marc.zeeb.cloud-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://marc.zeeb.cloud)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-robin-zeeb/)
+[![zeebpy](https://img.shields.io/badge/zeebpy-7C3AED?style=for-the-badge&logo=python&logoColor=white)](https://github.com/zeeb-cloud/zeebpy)
+![Profile views](https://komarev.com/ghpvc/?username=mzeeb&style=for-the-badge&color=7C3AED&label=VIEWS)
+[![Followers](https://img.shields.io/github/followers/mzeeb?style=for-the-badge&logo=github&color=24292e)](https://github.com/mzeeb?tab=followers)
 
 </div>
 
----
+<br/>
 
-## 🚀 Currently Building
+## 👨🏻‍💻 About Me
 
 <table>
-  <tr>
-    <td>
-      <h3><a href="https://github.com/zeeb-cloud/zeebpy">⚡ zeebpy</a></h3>
-      A batteries-included framework for building async APIs with FastAPI.<br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
-      <br/><br/>
-      🗄️ <b>ORM</b> – chainable <code>Model.objects.filter()</code>, Q &amp; F expressions, Alembic migrations<br/>
-      🧩 <b>API</b> – declarative serializers, ViewSets, routers, JWT auth<br/>
-      🤖 <b>Agents</b> – 100+ async helper functions, zero MCP dependency
-    </td>
-  </tr>
+<tr>
+<td width="55%" valign="top">
+
+```python
+class Marc:
+    role      = "Software Developer"
+    mindset   = ["security-first", "curious", "pragmatic"]
+    focus     = ["Python", "FastAPI", "LLMs & RAG"]
+    exploring = ["Swift", "React Native", "event-driven arch"]
+    env       = ["macOS", "Rocky Linux"]
+    open_to   = "Python collaborations 🤝"
+```
+
+</td>
+<td width="45%" valign="top">
+
+🔐 **Security minded** – secure coding comes first<br/><br/>
+🌱 **Always learning** – LLMs, RAG, event-driven systems<br/><br/>
+📱 **Exploring** – Swift & React Native<br/><br/>
+💪 **Skilled in** – Django, FastAPI, LangChain
+
+</td>
+</tr>
 </table>
+
+<br/>
+
+## 🚀 Featured Project
+
+<div align="center">
+
+<a href="https://github.com/zeeb-cloud/zeebpy">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeeb-cloud&repo=zeebpy&theme=tokyonight&hide_border=true" alt="zeebpy" />
+</a>
+
+</div>
+
+> **zeebpy** is a batteries-included framework for building async APIs with FastAPI.
+
+| 🗄️ ORM | 🧩 API | 🤖 Agents |
+|:--|:--|:--|
+| Chainable `Model.objects.filter()` | Declarative Pydantic serializers | 100+ async helper functions |
+| Q & F expressions | ViewSets & auto routers | Uniform `AgentResult` return type |
+| Alembic migrations | JWT auth with refresh tokens | Zero MCP dependency |
 
 ```bash
 pip install git+https://github.com/zeeb-cloud/zeebpy.git
 ```
 
----
-
-## 🌟 About Me
-
-- 🔐 **Security minded** – secure coding practices come first
-- 🌱 **Always learning** – LLMs, RAG and event-driven architectures
-- 📱 **Exploring** – Swift and React Native
-- 💪 **Skilled in** – Django, FastAPI, LangChain
-- 👯 **Open to collaborate** – especially on Python projects
-- 💻 **Environment** – macOS and Rocky Linux
-
----
+<br/>
 
 ## 🛠️ Tech Stack
 
-**Backend**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,dotnet,cs,c,cpp,objc,swift,ts&theme=dark" alt="languages"/><br/>
+<img src="https://skillicons.dev/icons?i=angular,vue,react,nextjs,postgres,mysql,sqlite,docker&theme=dark" alt="frameworks"/><br/>
+<img src="https://skillicons.dev/icons?i=windows,apple,linux,debian,git,github,vscode,bash&theme=dark" alt="tools"/>
 
-**Frontend**
+</div>
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<details>
+<summary><b>📋 Full breakdown</b></summary>
 
-**Languages**
+<br/>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Objective-C](https://img.shields.io/badge/Objective--C-438eff?style=for-the-badge&logo=apple&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+| Area | Technologies |
+|:--|:--|
+| **Backend** | Python, FastAPI, Django, .NET Core, T-SQL |
+| **Frontend** | Angular, Vue.js, React, TypeScript |
+| **Languages** | C, C++, C#, Objective-C, Swift |
+| **Operating Systems** | Windows, macOS, Rocky Linux, CentOS, Debian |
 
-**Operating Systems**
+</details>
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white)
-![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-
----
+<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mzeeb&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mzeeb&layout=compact&theme=tokyonight&hide_border=true)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mzeeb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzeeb&layout=compact&theme=tokyonight&hide_border=true" alt="top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=mzeeb&theme=tokyonight&hide_border=true" alt="streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mzeeb&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%"/>
 
 </div>
 
----
+<br/>
 
 ## 🤝 Let's Collaborate
 
-I'm looking for contributors and projects to work on, particularly in Python. Feel free to reach out!
+I'm looking for contributors and projects to work on, particularly in **Python**. Got an idea? Let's talk!
 
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Visit-marc.zeeb.cloud-0A66C2?style=flat-square)](https://marc.zeeb.cloud)
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/marc-robin-zeeb/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,14,18,20,24&section=footer" alt="footer" width="100%"/>
 
 </div>
