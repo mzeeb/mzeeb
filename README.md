@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,14,18,20,24&text=Marc%20Zeeb&fontSize=64&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20%26%20AI%20Architect%20%E2%80%A2%20Python%20%E2%80%A2%20Security-minded&descSize=20&descAlignY=58" alt="header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,14,18,20,24&text=Marc%20Zeeb&fontSize=64&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20and%20AI%20Architect%20%E2%80%A2%20Python%20%E2%80%A2%20Security-minded&descSize=20&descAlignY=58" alt="header" width="100%"/>
 
 <a href="https://github.com/zeeb-cloud/zeebpy">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Building+async+APIs+with+zeebpy+%E2%9A%A1;Writing+secure%2C+clean+Python+%F0%9F%90%8D;Architecting+MCP+%26+AI+agent+platforms+%F0%9F%A7%A0;Open+for+collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Building+async+APIs+with+zeebpy+%E2%9A%A1;Writing+secure%2C+clean+Python+%F0%9F%90%8D;Architecting+MCP+and+AI+agent+platforms+%F0%9F%A7%A0;Open+for+collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
 <br/>
