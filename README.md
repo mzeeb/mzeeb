@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,14,18,20,24&text=Marc%20Zeeb&fontSize=64&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Security-minded%20developer%20%E2%80%A2%20Python%20enthusiast&descSize=20&descAlignY=58" alt="header" width="100%"/>
 
 <a href="https://github.com/zeeb-cloud/zeebpy">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Building+async+APIs+with+zeebpy+%E2%9A%A1;Writing+secure%2C+clean+Python+%F0%9F%90%8D;Exploring+LLMs%2C+RAG+%26+event-driven+design+%F0%9F%A7%A0;Open+for+collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Building+async+APIs+with+zeebpy+%E2%9A%A1;Writing+secure%2C+clean+Python+%F0%9F%90%8D;Architecting+MCP+%26+AI+agent+platforms+%F0%9F%A7%A0;Open+for+collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -26,8 +26,8 @@
 class Marc:
     role      = "Software & AI Architect"
     mindset   = ["security-first", "curious", "pragmatic"]
-    focus     = ["Python", "FastAPI", "LLMs & RAG"]
-    exploring = ["Swift", "React Native", "event-driven arch"]
+    focus     = ["Python", "FastAPI", "MCP & AI agents"]
+    exploring = ["AI code generation", "multi-service platforms", "Next.js"]
     env       = ["macOS", "Rocky Linux"]
     open_to   = "Python collaborations 🤝"
 ```
@@ -36,9 +36,9 @@ class Marc:
 <td width="45%" valign="top">
 
 🔐 **Security minded** – secure coding comes first<br/><br/>
-🌱 **Always learning** – LLMs, RAG, event-driven systems<br/><br/>
-📱 **Exploring** – Swift & React Native<br/><br/>
-💪 **Skilled in** – Django, FastAPI, LangChain
+🌱 **Always learning** – AI agents, MCP and event-driven systems<br/><br/>
+🧭 **Exploring** – AI-driven code generation, multi-service platforms & Next.js<br/><br/>
+💪 **Skilled in** – Python, FastAPI, Pydantic, MCP, RabbitMQ, Docker & Postgres
 
 </td>
 </tr>
@@ -74,8 +74,8 @@ pip install git+https://github.com/zeeb-cloud/zeebpy.git
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,dotnet,cs,c,cpp,objc,swift,ts&theme=dark" alt="languages"/><br/>
-<img src="https://skillicons.dev/icons?i=angular,vue,react,nextjs,postgres,mysql,sqlite,docker&theme=dark" alt="frameworks"/><br/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,dotnet,cs,c,cpp,ts&theme=dark" alt="languages"/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,angular,vue,postgres,rabbitmq,docker&theme=dark" alt="frameworks"/><br/>
 <img src="https://skillicons.dev/icons?i=windows,apple,linux,debian,git,github,vscode,bash&theme=dark" alt="tools"/>
 
 </div>
@@ -87,9 +87,9 @@ pip install git+https://github.com/zeeb-cloud/zeebpy.git
 
 | Area | Technologies |
 |:--|:--|
-| **Backend** | Python, FastAPI, Django, .NET Core, T-SQL |
-| **Frontend** | Angular, Vue.js, React, TypeScript |
-| **Languages** | C, C++, C#, Objective-C, Swift |
+| **Backend** | Python, FastAPI, Django, Pydantic, MCP, RabbitMQ, .NET Core, T-SQL |
+| **Frontend** | React, Next.js, Vite, Tailwind, Angular, Vue.js, TypeScript |
+| **Languages** | Python, TypeScript, C, C++, C# |
 | **Operating Systems** | Windows, macOS, Rocky Linux, CentOS, Debian |
 
 </details>
