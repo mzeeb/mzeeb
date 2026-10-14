@@ -11,8 +11,6 @@
 [![Website](https://img.shields.io/badge/marc.zeeb.cloud-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://marc.zeeb.cloud)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-robin-zeeb/)
 [![zeebpy](https://img.shields.io/badge/zeebpy-7C3AED?style=for-the-badge&logo=python&logoColor=white)](https://github.com/zeeb-cloud/zeebpy)
-![Profile views](https://komarev.com/ghpvc/?username=mzeeb&style=for-the-badge&color=7C3AED&label=VIEWS)
-[![Followers](https://img.shields.io/github/followers/mzeeb?style=for-the-badge&logo=github&color=24292e)](https://github.com/mzeeb?tab=followers)
 
 </div>
 
@@ -26,7 +24,7 @@
 
 ```python
 class Marc:
-    role      = "Software Developer"
+    role      = "Software & AI Architect"
     mindset   = ["security-first", "curious", "pragmatic"]
     focus     = ["Python", "FastAPI", "LLMs & RAG"]
     exploring = ["Swift", "React Native", "event-driven arch"]
