@@ -104,7 +104,6 @@ pip install git+https://github.com/zeeb-cloud/zeebpy.git
 
 <img src="https://streak-stats.demolab.com?user=mzeeb&theme=tokyonight&hide_border=true" alt="streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mzeeb&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%"/>
 
 </div>
 
