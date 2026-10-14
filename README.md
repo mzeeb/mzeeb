@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,14,18,20,24&text=Marc%20Zeeb&fontSize=64&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Security-minded%20developer%20%E2%80%A2%20Python%20enthusiast&descSize=20&descAlignY=58" alt="header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,14,18,20,24&text=Marc%20Zeeb&fontSize=64&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20%26%20AI%20Architect%20%E2%80%A2%20Python%20%E2%80%A2%20Security-minded&descSize=20&descAlignY=58" alt="header" width="100%"/>
 
 <a href="https://github.com/zeeb-cloud/zeebpy">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Building+async+APIs+with+zeebpy+%E2%9A%A1;Writing+secure%2C+clean+Python+%F0%9F%90%8D;Architecting+MCP+%26+AI+agent+platforms+%F0%9F%A7%A0;Open+for+collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
@@ -18,27 +18,26 @@
 
 ## 👨🏻‍💻 About Me
 
+I'm a **Software & AI Architect** who designs and builds secure, scalable platforms, from async Python APIs to AI agent infrastructure. I care about clean architecture, sound security practices and tools that are a joy to use.
+
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="33%" valign="top" align="center">
 
-```python
-class Marc:
-    role      = "Software & AI Architect"
-    mindset   = ["security-first", "curious", "pragmatic"]
-    focus     = ["Python", "FastAPI", "MCP & AI agents"]
-    exploring = ["AI code generation", "multi-service platforms", "Next.js"]
-    env       = ["macOS", "Rocky Linux"]
-    open_to   = "Python collaborations 🤝"
-```
+### 🏗️ Architecture
+Designing multi-service platforms, APIs and AI agent systems that scale.
 
 </td>
-<td width="45%" valign="top">
+<td width="33%" valign="top" align="center">
 
-🔐 **Security minded** – secure coding comes first<br/><br/>
-🌱 **Always learning** – AI agents, MCP and event-driven systems<br/><br/>
-🧭 **Exploring** – AI-driven code generation, multi-service platforms & Next.js<br/><br/>
-💪 **Skilled in** – Python, FastAPI, Pydantic, MCP, RabbitMQ, Docker & Postgres
+### 🔐 Security First
+Secure coding practices are part of the design from day one, not an afterthought.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🤖 AI & Agents
+Building with MCP, AI-driven code generation and event-driven systems.
 
 </td>
 </tr>
